@@ -22,6 +22,8 @@
 ---
 
 ## 🎯 What is RepoPilot?
+<img width="2848" height="1379" alt="image" src="https://github.com/user-attachments/assets/35945bb5-a744-4e3d-8b5e-06290ec55d85" />
+
 
 RepoPilot is an **AI-powered autonomous developer** that goes beyond code generation. Give it any GitHub repository and a natural-language goal, and it will:
 
